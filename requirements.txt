@@ -1,8 +1,7 @@
-pymupdf
 pandas==1.0.3
-PyYAML
 requests
-scipy==1.4.1
-sklearn
 beautifulsoup4
 plotly==4.6.0
+dash
+dash_core_components
+dash_html_components

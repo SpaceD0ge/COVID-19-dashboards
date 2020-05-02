@@ -4,7 +4,9 @@ import numpy as np
 
 
 def plot_map(
-    data, title, color_key,
+    data,
+    title,
+    color_key,
     color_scale,
     geodata=None,
     hover_name=None,
@@ -83,7 +85,9 @@ def plot_cases_map(
     title = f"Confirmed cases by region by {date}. {postfix}"
 
     return plot_map(
-        local_data, title, key,
+        local_data,
+        title,
+        key,
         px.colors.sequential.tempo,
         geodata=geojson,
         map_class=mtype,
@@ -157,7 +161,9 @@ def plot_map_difference(
         title = "Comparing different predictions by region error values"
         scale = px.colors.sequential.Reds
     fig = plot_map(
-        agg, title, key,
+        agg,
+        title,
+        key,
         scale,
         animation_frame=animation,
         geodata=geojson,
