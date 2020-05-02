@@ -93,7 +93,8 @@ app.layout = html.Div(
                 html.Div(
                     [
                         html.H3("Ratings table"),
-                        html.P("Lorem ipsum non canina penis"),
+                        html.P("User ratings are displayed here. Sum of \
+                            Mean Absolute Log Errors by day."),
                         dash_table.DataTable(
                             id="leaderboard",
                             columns=[{"name": i, "id": i} for i in lb.columns],
