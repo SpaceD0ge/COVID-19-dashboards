@@ -20,8 +20,8 @@ from dash.dependencies import Input, Output
 # MAIN PARAMETERS ################
 # Основные параметры
 predictions = [
-    pd.read_csv(".submissions/seir3.csv"),
-    pd.read_csv(".submissions/seir2.csv"),
+    pd.read_csv("./submissions/seir3.csv"),
+    pd.read_csv("./submissions/seir2.csv"),
 ]
 team_names = ["Gork", "Mork"]
 start_date = "2020-04-27"
@@ -217,4 +217,4 @@ if __name__ == "__main__":
     # debug=True for debugging and use_reloader=False for
     # serving right out of a jupyter notebook
     # app.run_server(debug=True, use_reloader=False)
-    app.run_server()
+    app.run_server(host='0.0.0.0')
