@@ -99,6 +99,7 @@ app.layout = html.Div(
                             id="leaderboard",
                             columns=[{"name": i, "id": i} for i in lb.columns],
                             data=lb.to_dict("records"),
+                            page_size=8,
                         ),
                     ],
                     className="six columns",
