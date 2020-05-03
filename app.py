@@ -56,6 +56,7 @@ data = pd.read_csv('./auxiliary_files/russian_timeline_fixed.csv')
 with open("./auxiliary_files/gadm36_RUS_1.json") as f:
     geodata = json.load(f)
 summary = pd.read_csv("./auxiliary_files/russia_regions.csv").set_index("iso_code")
+predictions = [x.set_index('region').loc[summary.index].reset_index() for x in predictions]
 
 # evaluating the male scores
 # выводим все скоры в одну таблицу, в другой оставляем только сам лидерборд
