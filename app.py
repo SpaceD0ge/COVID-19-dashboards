@@ -35,17 +35,20 @@ app = dash.Dash(__name__, server=server)
 
 # configuring our data parser
 # конфигурация для парсера регионов - все файлы уже на месте
-cfg_aux = {
-    "regions": "./auxiliary_files/russia_regions.csv",
-    "geojson": "./auxiliary_files/gadm36_RUS_1.json",
-}
-cfg_main = {
-    "rospotreb_page": "https://www.rospotrebnadzor.ru/",
-    "timeseries_page": "https://github.com/grwlf/COVID-19_plus_Russia/raw/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_RU.csv",
-    "rewrite": True,
-    "root": "./",
-}
-parser = RussianRegionsParser({"rospotreb": cfg_main, "auxiliary": cfg_aux})
+# сейчас парсер поломан из-за ошибок в источнике
+# cfg_aux = {
+#     "regions": "./auxiliary_files/russia_regions.csv",
+#     "geojson": "./auxiliary_files/gadm36_RUS_1.json",
+# }
+# cfg_main = {
+#     "rospotreb_page": "https://www.rospotrebnadzor.ru/",
+#     "timeseries_page": "https://github.com/grwlf/COVID-19_plus_Russia/raw/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_RU.csv",
+#     "rewrite": True,
+#     "root": "./",
+# }
+# parser = RussianRegionsParser({"rospotreb": cfg_main, "auxiliary": cfg_aux})
+# data = parser.load_data()
+data = pd.read_csv('./auxiliary_files/russian_timeline_fixed.csv')
 
 
 # getting our data
@@ -53,7 +56,6 @@ parser = RussianRegionsParser({"rospotreb": cfg_main, "auxiliary": cfg_aux})
 with open("./auxiliary_files/gadm36_RUS_1.json") as f:
     geodata = json.load(f)
 summary = pd.read_csv("./auxiliary_files/russia_regions.csv").set_index("iso_code")
-data = parser.load_data()
 
 # evaluating the male scores
 # выводим все скоры в одну таблицу, в другой оставляем только сам лидерборд
