@@ -101,6 +101,7 @@ RU-AD,2020-04-29,Republic of Adygeia,154.0,RU.AD
 RU-AD,2020-04-30,Republic of Adygeia,163.0,RU.AD
 RU-AD,2020-05-01,Republic of Adygeia,165.0,RU.AD
 RU-AD,2020-05-02,Republic of Adygeia,168.0,RU.AD
+RU-AD,2020-05-03,Republic of Adygeia,178.0,RU.AD
 RU-AL,2020-01-22,Altay republic,0.0,RU.GA
 RU-AL,2020-01-23,Altay republic,0.0,RU.GA
 RU-AL,2020-01-24,Altay republic,0.0,RU.GA
@@ -203,6 +204,7 @@ RU-AL,2020-04-29,Altay republic,30.0,RU.GA
 RU-AL,2020-04-30,Altay republic,32.0,RU.GA
 RU-AL,2020-05-01,Altay republic,33.0,RU.GA
 RU-AL,2020-05-02,Altay republic,35.0,RU.GA
+RU-AL,2020-05-03,Altay republic,36.0,RU.GA
 RU-ALT,2020-01-22,Altayskiy kray,0.0,RU.AL
 RU-ALT,2020-01-23,Altayskiy kray,0.0,RU.AL
 RU-ALT,2020-01-24,Altayskiy kray,0.0,RU.AL
@@ -305,6 +307,7 @@ RU-ALT,2020-04-29,Altayskiy kray,348.0,RU.AL
 RU-ALT,2020-04-30,Altayskiy kray,382.0,RU.AL
 RU-ALT,2020-05-01,Altayskiy kray,423.0,RU.AL
 RU-ALT,2020-05-02,Altayskiy kray,451.0,RU.AL
+RU-ALT,2020-05-03,Altayskiy kray,498.0,RU.AL
 RU-AMU,2020-01-22,Amursk oblast,0.0,RU.AM
 RU-AMU,2020-01-23,Amursk oblast,0.0,RU.AM
 RU-AMU,2020-01-24,Amursk oblast,0.0,RU.AM
@@ -407,6 +410,7 @@ RU-AMU,2020-04-29,Amursk oblast,46.0,RU.AM
 RU-AMU,2020-04-30,Amursk oblast,56.0,RU.AM
 RU-AMU,2020-05-01,Amursk oblast,67.0,RU.AM
 RU-AMU,2020-05-02,Amursk oblast,72.0,RU.AM
+RU-AMU,2020-05-03,Amursk oblast,79.0,RU.AM
 RU-ARK,2020-01-22,Arkhangelsk oblast,0.0,RU.AR
 RU-ARK,2020-01-23,Arkhangelsk oblast,0.0,RU.AR
 RU-ARK,2020-01-24,Arkhangelsk oblast,0.0,RU.AR
@@ -509,6 +513,7 @@ RU-ARK,2020-04-29,Arkhangelsk oblast,185.0,RU.AR
 RU-ARK,2020-04-30,Arkhangelsk oblast,198.0,RU.AR
 RU-ARK,2020-05-01,Arkhangelsk oblast,213.0,RU.AR
 RU-ARK,2020-05-02,Arkhangelsk oblast,238.0,RU.AR
+RU-ARK,2020-05-03,Arkhangelsk oblast,260.0,RU.AR
 RU-AST,2020-01-22,Astrahan oblast,0.0,RU.AS
 RU-AST,2020-01-23,Astrahan oblast,0.0,RU.AS
 RU-AST,2020-01-24,Astrahan oblast,0.0,RU.AS
@@ -611,6 +616,7 @@ RU-AST,2020-04-29,Astrahan oblast,350.0,RU.AS
 RU-AST,2020-04-30,Astrahan oblast,365.0,RU.AS
 RU-AST,2020-05-01,Astrahan oblast,384.0,RU.AS
 RU-AST,2020-05-02,Astrahan oblast,411.0,RU.AS
+RU-AST,2020-05-03,Astrahan oblast,487.0,RU.AS
 RU-BA,2020-01-22,Republic of Bashkortostan,0.0,RU.BK
 RU-BA,2020-01-23,Republic of Bashkortostan,0.0,RU.BK
 RU-BA,2020-01-24,Republic of Bashkortostan,0.0,RU.BK
@@ -713,6 +719,7 @@ RU-BA,2020-04-29,Republic of Bashkortostan,691.0,RU.BK
 RU-BA,2020-04-30,Republic of Bashkortostan,766.0,RU.BK
 RU-BA,2020-05-01,Republic of Bashkortostan,843.0,RU.BK
 RU-BA,2020-05-02,Republic of Bashkortostan,935.0,RU.BK
+RU-BA,2020-05-03,Republic of Bashkortostan,1022.0,RU.BK
 RU-BEL,2020-01-22,Belgorod oblast,0.0,RU.BL
 RU-BEL,2020-01-23,Belgorod oblast,0.0,RU.BL
 RU-BEL,2020-01-24,Belgorod oblast,0.0,RU.BL
@@ -815,6 +822,7 @@ RU-BEL,2020-04-29,Belgorod oblast,327.0,RU.BL
 RU-BEL,2020-04-30,Belgorod oblast,355.0,RU.BL
 RU-BEL,2020-05-01,Belgorod oblast,383.0,RU.BL
 RU-BEL,2020-05-02,Belgorod oblast,419.0,RU.BL
+RU-BEL,2020-05-03,Belgorod oblast,454.0,RU.BL
 RU-BRY,2020-01-22,Briansk oblast,0.0,RU.BR
 RU-BRY,2020-01-23,Briansk oblast,0.0,RU.BR
 RU-BRY,2020-01-24,Briansk oblast,0.0,RU.BR
@@ -917,6 +925,7 @@ RU-BRY,2020-04-29,Briansk oblast,783.0,RU.BR
 RU-BRY,2020-04-30,Briansk oblast,901.0,RU.BR
 RU-BRY,2020-05-01,Briansk oblast,989.0,RU.BR
 RU-BRY,2020-05-02,Briansk oblast,1062.0,RU.BR
+RU-BRY,2020-05-03,Briansk oblast,1148.0,RU.BR
 RU-BU,2020-01-22,Republic of Buriatia,0.0,RU.BU
 RU-BU,2020-01-23,Republic of Buriatia,0.0,RU.BU
 RU-BU,2020-01-24,Republic of Buriatia,0.0,RU.BU
@@ -1019,6 +1028,7 @@ RU-BU,2020-04-29,Republic of Buriatia,245.0,RU.BU
 RU-BU,2020-04-30,Republic of Buriatia,271.0,RU.BU
 RU-BU,2020-05-01,Republic of Buriatia,297.0,RU.BU
 RU-BU,2020-05-02,Republic of Buriatia,325.0,RU.BU
+RU-BU,2020-05-03,Republic of Buriatia,355.0,RU.BU
 RU-CE,2020-01-22,Chechen republic,0.0,RU.CN
 RU-CE,2020-01-23,Chechen republic,0.0,RU.CN
 RU-CE,2020-01-24,Chechen republic,0.0,RU.CN
@@ -1121,6 +1131,7 @@ RU-CE,2020-04-29,Chechen republic,465.0,RU.CN
 RU-CE,2020-04-30,Chechen republic,485.0,RU.CN
 RU-CE,2020-05-01,Chechen republic,504.0,RU.CN
 RU-CE,2020-05-02,Chechen republic,525.0,RU.CN
+RU-CE,2020-05-03,Chechen republic,553.0,RU.CN
 RU-CHE,2020-01-22,Cheliabinsk oblast,0.0,RU.CL
 RU-CHE,2020-01-23,Cheliabinsk oblast,0.0,RU.CL
 RU-CHE,2020-01-24,Cheliabinsk oblast,0.0,RU.CL
@@ -1223,6 +1234,7 @@ RU-CHE,2020-04-29,Cheliabinsk oblast,427.0,RU.CL
 RU-CHE,2020-04-30,Cheliabinsk oblast,494.0,RU.CL
 RU-CHE,2020-05-01,Cheliabinsk oblast,538.0,RU.CL
 RU-CHE,2020-05-02,Cheliabinsk oblast,568.0,RU.CL
+RU-CHE,2020-05-03,Cheliabinsk oblast,631.0,RU.CL
 RU-CHU,2020-01-22,Chukotskiy autonomous oblast,0.0,RU.CK
 RU-CHU,2020-01-23,Chukotskiy autonomous oblast,0.0,RU.CK
 RU-CHU,2020-01-24,Chukotskiy autonomous oblast,0.0,RU.CK
@@ -1325,6 +1337,7 @@ RU-CHU,2020-04-29,Chukotskiy autonomous oblast,17.0,RU.CK
 RU-CHU,2020-04-30,Chukotskiy autonomous oblast,18.0,RU.CK
 RU-CHU,2020-05-01,Chukotskiy autonomous oblast,20.0,RU.CK
 RU-CHU,2020-05-02,Chukotskiy autonomous oblast,23.0,RU.CK
+RU-CHU,2020-05-03,Chukotskiy autonomous oblast,24.0,RU.CK
 RU-CU,2020-01-22,Republic of Chuvashia,0.0,RU.CV
 RU-CU,2020-01-23,Republic of Chuvashia,0.0,RU.CV
 RU-CU,2020-01-24,Republic of Chuvashia,0.0,RU.CV
@@ -1427,6 +1440,7 @@ RU-CU,2020-04-29,Republic of Chuvashia,539.0,RU.CV
 RU-CU,2020-04-30,Republic of Chuvashia,586.0,RU.CV
 RU-CU,2020-05-01,Republic of Chuvashia,627.0,RU.CV
 RU-CU,2020-05-02,Republic of Chuvashia,676.0,RU.CV
+RU-CU,2020-05-03,Republic of Chuvashia,731.0,RU.CV
 RU-DA,2020-01-22,Republic of Dagestan,0.0,RU.DA
 RU-DA,2020-01-23,Republic of Dagestan,0.0,RU.DA
 RU-DA,2020-01-24,Republic of Dagestan,0.0,RU.DA
@@ -1529,6 +1543,7 @@ RU-DA,2020-04-29,Republic of Dagestan,1231.0,RU.DA
 RU-DA,2020-04-30,Republic of Dagestan,1389.0,RU.DA
 RU-DA,2020-05-01,Republic of Dagestan,1553.0,RU.DA
 RU-DA,2020-05-02,Republic of Dagestan,1662.0,RU.DA
+RU-DA,2020-05-03,Republic of Dagestan,1798.0,RU.DA
 RU-IN,2020-01-22,Ingushetia republic,0.0,RU.IN
 RU-IN,2020-01-23,Ingushetia republic,0.0,RU.IN
 RU-IN,2020-01-24,Ingushetia republic,0.0,RU.IN
@@ -1631,6 +1646,7 @@ RU-IN,2020-04-29,Ingushetia republic,679.0,RU.IN
 RU-IN,2020-04-30,Ingushetia republic,722.0,RU.IN
 RU-IN,2020-05-01,Ingushetia republic,769.0,RU.IN
 RU-IN,2020-05-02,Ingushetia republic,814.0,RU.IN
+RU-IN,2020-05-03,Ingushetia republic,865.0,RU.IN
 RU-IRK,2020-01-22,Irkutsk oblast,0.0,RU.IK
 RU-IRK,2020-01-23,Irkutsk oblast,0.0,RU.IK
 RU-IRK,2020-01-24,Irkutsk oblast,0.0,RU.IK
@@ -1733,6 +1749,7 @@ RU-IRK,2020-04-29,Irkutsk oblast,101.0,RU.IK
 RU-IRK,2020-04-30,Irkutsk oblast,105.0,RU.IK
 RU-IRK,2020-05-01,Irkutsk oblast,123.0,RU.IK
 RU-IRK,2020-05-02,Irkutsk oblast,130.0,RU.IK
+RU-IRK,2020-05-03,Irkutsk oblast,150.0,RU.IK
 RU-IVA,2020-01-22,Ivanovo oblast,0.0,RU.IV
 RU-IVA,2020-01-23,Ivanovo oblast,0.0,RU.IV
 RU-IVA,2020-01-24,Ivanovo oblast,0.0,RU.IV
@@ -1835,6 +1852,7 @@ RU-IVA,2020-04-29,Ivanovo oblast,327.0,RU.IV
 RU-IVA,2020-04-30,Ivanovo oblast,359.0,RU.IV
 RU-IVA,2020-05-01,Ivanovo oblast,403.0,RU.IV
 RU-IVA,2020-05-02,Ivanovo oblast,434.0,RU.IV
+RU-IVA,2020-05-03,Ivanovo oblast,456.0,RU.IV
 RU-KAM,2020-01-22,Kamchatskiy kray,0.0,RU.KQ
 RU-KAM,2020-01-23,Kamchatskiy kray,0.0,RU.KQ
 RU-KAM,2020-01-24,Kamchatskiy kray,0.0,RU.KQ
@@ -1937,6 +1955,7 @@ RU-KAM,2020-04-29,Kamchatskiy kray,241.0,RU.KQ
 RU-KAM,2020-04-30,Kamchatskiy kray,265.0,RU.KQ
 RU-KAM,2020-05-01,Kamchatskiy kray,281.0,RU.KQ
 RU-KAM,2020-05-02,Kamchatskiy kray,286.0,RU.KQ
+RU-KAM,2020-05-03,Kamchatskiy kray,311.0,RU.KQ
 RU-KB,2020-01-22,Republic of Kabardino-Balkaria,0.0,RU.KB
 RU-KB,2020-01-23,Republic of Kabardino-Balkaria,0.0,RU.KB
 RU-KB,2020-01-24,Republic of Kabardino-Balkaria,0.0,RU.KB
@@ -2039,6 +2058,7 @@ RU-KB,2020-04-29,Republic of Kabardino-Balkaria,412.0,RU.KB
 RU-KB,2020-04-30,Republic of Kabardino-Balkaria,456.0,RU.KB
 RU-KB,2020-05-01,Republic of Kabardino-Balkaria,499.0,RU.KB
 RU-KB,2020-05-02,Republic of Kabardino-Balkaria,544.0,RU.KB
+RU-KB,2020-05-03,Republic of Kabardino-Balkaria,634.0,RU.KB
 RU-KC,2020-01-22,Republic of Karachaevo-Cherkessia,0.0,RU.KC
 RU-KC,2020-01-23,Republic of Karachaevo-Cherkessia,0.0,RU.KC
 RU-KC,2020-01-24,Republic of Karachaevo-Cherkessia,0.0,RU.KC
@@ -2141,6 +2161,7 @@ RU-KC,2020-04-29,Republic of Karachaevo-Cherkessia,330.0,RU.KC
 RU-KC,2020-04-30,Republic of Karachaevo-Cherkessia,352.0,RU.KC
 RU-KC,2020-05-01,Republic of Karachaevo-Cherkessia,398.0,RU.KC
 RU-KC,2020-05-02,Republic of Karachaevo-Cherkessia,412.0,RU.KC
+RU-KC,2020-05-03,Republic of Karachaevo-Cherkessia,430.0,RU.KC
 RU-KDA,2020-01-22,Krasnodarskiy kray,0.0,RU.KD
 RU-KDA,2020-01-23,Krasnodarskiy kray,0.0,RU.KD
 RU-KDA,2020-01-24,Krasnodarskiy kray,0.0,RU.KD
@@ -2243,6 +2264,7 @@ RU-KDA,2020-04-29,Krasnodarskiy kray,951.0,RU.KD
 RU-KDA,2020-04-30,Krasnodarskiy kray,1017.0,RU.KD
 RU-KDA,2020-05-01,Krasnodarskiy kray,1083.0,RU.KD
 RU-KDA,2020-05-02,Krasnodarskiy kray,1162.0,RU.KD
+RU-KDA,2020-05-03,Krasnodarskiy kray,1244.0,RU.KD
 RU-KEM,2020-01-22,Kemerovo oblast,0.0,RU.KE
 RU-KEM,2020-01-23,Kemerovo oblast,0.0,RU.KE
 RU-KEM,2020-01-24,Kemerovo oblast,0.0,RU.KE
@@ -2345,6 +2367,7 @@ RU-KEM,2020-04-29,Kemerovo oblast,114.0,RU.KE
 RU-KEM,2020-04-30,Kemerovo oblast,126.0,RU.KE
 RU-KEM,2020-05-01,Kemerovo oblast,128.0,RU.KE
 RU-KEM,2020-05-02,Kemerovo oblast,142.0,RU.KE
+RU-KEM,2020-05-03,Kemerovo oblast,153.0,RU.KE
 RU-KGD,2020-01-22,Kaliningrad oblast,0.0,RU.KN
 RU-KGD,2020-01-23,Kaliningrad oblast,0.0,RU.KN
 RU-KGD,2020-01-24,Kaliningrad oblast,0.0,RU.KN
@@ -2447,6 +2470,7 @@ RU-KGD,2020-04-29,Kaliningrad oblast,326.0,RU.KN
 RU-KGD,2020-04-30,Kaliningrad oblast,358.0,RU.KN
 RU-KGD,2020-05-01,Kaliningrad oblast,395.0,RU.KN
 RU-KGD,2020-05-02,Kaliningrad oblast,438.0,RU.KN
+RU-KGD,2020-05-03,Kaliningrad oblast,479.0,RU.KN
 RU-KGN,2020-01-22,Kurgan oblast,0.0,RU.KU
 RU-KGN,2020-01-23,Kurgan oblast,0.0,RU.KU
 RU-KGN,2020-01-24,Kurgan oblast,0.0,RU.KU
@@ -2549,6 +2573,7 @@ RU-KGN,2020-04-29,Kurgan oblast,39.0,RU.KU
 RU-KGN,2020-04-30,Kurgan oblast,40.0,RU.KU
 RU-KGN,2020-05-01,Kurgan oblast,45.0,RU.KU
 RU-KGN,2020-05-02,Kurgan oblast,49.0,RU.KU
+RU-KGN,2020-05-03,Kurgan oblast,51.0,RU.KU
 RU-KHA,2020-01-22,Habarovskiy kray,0.0,RU.KH
 RU-KHA,2020-01-23,Habarovskiy kray,0.0,RU.KH
 RU-KHA,2020-01-24,Habarovskiy kray,0.0,RU.KH
@@ -2651,6 +2676,7 @@ RU-KHA,2020-04-29,Habarovskiy kray,498.0,RU.KH
 RU-KHA,2020-04-30,Habarovskiy kray,536.0,RU.KH
 RU-KHA,2020-05-01,Habarovskiy kray,566.0,RU.KH
 RU-KHA,2020-05-02,Habarovskiy kray,595.0,RU.KH
+RU-KHA,2020-05-03,Habarovskiy kray,629.0,RU.KH
 RU-KHM,2020-01-22,Hanty-Mansiyskiy AO,0.0,RU.KM
 RU-KHM,2020-01-23,Hanty-Mansiyskiy AO,0.0,RU.KM
 RU-KHM,2020-01-24,Hanty-Mansiyskiy AO,0.0,RU.KM
@@ -2753,6 +2779,7 @@ RU-KHM,2020-04-29,Hanty-Mansiyskiy AO,366.0,RU.KM
 RU-KHM,2020-04-30,Hanty-Mansiyskiy AO,387.0,RU.KM
 RU-KHM,2020-05-01,Hanty-Mansiyskiy AO,405.0,RU.KM
 RU-KHM,2020-05-02,Hanty-Mansiyskiy AO,414.0,RU.KM
+RU-KHM,2020-05-03,Hanty-Mansiyskiy AO,449.0,RU.KM
 RU-KIR,2020-01-22,Kirov oblast,0.0,RU.KV
 RU-KIR,2020-01-23,Kirov oblast,0.0,RU.KV
 RU-KIR,2020-01-24,Kirov oblast,0.0,RU.KV
@@ -2855,6 +2882,7 @@ RU-KIR,2020-04-29,Kirov oblast,466.0,RU.KV
 RU-KIR,2020-04-30,Kirov oblast,493.0,RU.KV
 RU-KIR,2020-05-01,Kirov oblast,511.0,RU.KV
 RU-KIR,2020-05-02,Kirov oblast,543.0,RU.KV
+RU-KIR,2020-05-03,Kirov oblast,585.0,RU.KV
 RU-KK,2020-01-22,Republic of Hakassia,0.0,RU.KK
 RU-KK,2020-01-23,Republic of Hakassia,0.0,RU.KK
 RU-KK,2020-01-24,Republic of Hakassia,0.0,RU.KK
@@ -2957,6 +2985,7 @@ RU-KK,2020-04-29,Republic of Hakassia,228.0,RU.KK
 RU-KK,2020-04-30,Republic of Hakassia,232.0,RU.KK
 RU-KK,2020-05-01,Republic of Hakassia,257.0,RU.KK
 RU-KK,2020-05-02,Republic of Hakassia,266.0,RU.KK
+RU-KK,2020-05-03,Republic of Hakassia,272.0,RU.KK
 RU-KL,2020-01-22,Republic of Kalmykia,0.0,RU.KL
 RU-KL,2020-01-23,Republic of Kalmykia,0.0,RU.KL
 RU-KL,2020-01-24,Republic of Kalmykia,0.0,RU.KL
@@ -3059,6 +3088,7 @@ RU-KL,2020-04-29,Republic of Kalmykia,183.0,RU.KL
 RU-KL,2020-04-30,Republic of Kalmykia,192.0,RU.KL
 RU-KL,2020-05-01,Republic of Kalmykia,231.0,RU.KL
 RU-KL,2020-05-02,Republic of Kalmykia,254.0,RU.KL
+RU-KL,2020-05-03,Republic of Kalmykia,283.0,RU.KL
 RU-KLU,2020-01-22,Kaluga oblast,0.0,RU.KG
 RU-KLU,2020-01-23,Kaluga oblast,0.0,RU.KG
 RU-KLU,2020-01-24,Kaluga oblast,0.0,RU.KG
@@ -3161,6 +3191,7 @@ RU-KLU,2020-04-29,Kaluga oblast,772.0,RU.KG
 RU-KLU,2020-04-30,Kaluga oblast,885.0,RU.KG
 RU-KLU,2020-05-01,Kaluga oblast,1006.0,RU.KG
 RU-KLU,2020-05-02,Kaluga oblast,1065.0,RU.KG
+RU-KLU,2020-05-03,Kaluga oblast,1136.0,RU.KG
 RU-KO,2020-01-22,Komi republic,0.0,RU.KO
 RU-KO,2020-01-23,Komi republic,0.0,RU.KO
 RU-KO,2020-01-24,Komi republic,0.0,RU.KO
@@ -3263,6 +3294,7 @@ RU-KO,2020-04-29,Komi republic,611.0,RU.KO
 RU-KO,2020-04-30,Komi republic,621.0,RU.KO
 RU-KO,2020-05-01,Komi republic,649.0,RU.KO
 RU-KO,2020-05-02,Komi republic,656.0,RU.KO
+RU-KO,2020-05-03,Komi republic,676.0,RU.KO
 RU-KOS,2020-01-22,Kostroma oblast,0.0,RU.KT
 RU-KOS,2020-01-23,Kostroma oblast,0.0,RU.KT
 RU-KOS,2020-01-24,Kostroma oblast,0.0,RU.KT
@@ -3365,6 +3397,7 @@ RU-KOS,2020-04-29,Kostroma oblast,193.0,RU.KT
 RU-KOS,2020-04-30,Kostroma oblast,211.0,RU.KT
 RU-KOS,2020-05-01,Kostroma oblast,227.0,RU.KT
 RU-KOS,2020-05-02,Kostroma oblast,241.0,RU.KT
+RU-KOS,2020-05-03,Kostroma oblast,253.0,RU.KT
 RU-KR,2020-01-22,Republic of Karelia,0.0,RU.KI
 RU-KR,2020-01-23,Republic of Karelia,0.0,RU.KI
 RU-KR,2020-01-24,Republic of Karelia,0.0,RU.KI
@@ -3467,6 +3500,7 @@ RU-KR,2020-04-29,Republic of Karelia,63.0,RU.KI
 RU-KR,2020-04-30,Republic of Karelia,66.0,RU.KI
 RU-KR,2020-05-01,Republic of Karelia,74.0,RU.KI
 RU-KR,2020-05-02,Republic of Karelia,81.0,RU.KI
+RU-KR,2020-05-03,Republic of Karelia,85.0,RU.KI
 RU-KRS,2020-01-22,Kursk oblast,0.0,RU.KS
 RU-KRS,2020-01-23,Kursk oblast,0.0,RU.KS
 RU-KRS,2020-01-24,Kursk oblast,0.0,RU.KS
@@ -3569,6 +3603,7 @@ RU-KRS,2020-04-29,Kursk oblast,658.0,RU.KS
 RU-KRS,2020-04-30,Kursk oblast,726.0,RU.KS
 RU-KRS,2020-05-01,Kursk oblast,792.0,RU.KS
 RU-KRS,2020-05-02,Kursk oblast,861.0,RU.KS
+RU-KRS,2020-05-03,Kursk oblast,928.0,RU.KS
 RU-KYA,2020-01-22,Krasnoyarskiy kray,0.0,RU.KX
 RU-KYA,2020-01-23,Krasnoyarskiy kray,0.0,RU.KX
 RU-KYA,2020-01-24,Krasnoyarskiy kray,0.0,RU.KX
@@ -3671,6 +3706,7 @@ RU-KYA,2020-04-29,Krasnoyarskiy kray,609.0,RU.KX
 RU-KYA,2020-04-30,Krasnoyarskiy kray,666.0,RU.KX
 RU-KYA,2020-05-01,Krasnoyarskiy kray,714.0,RU.KX
 RU-KYA,2020-05-02,Krasnoyarskiy kray,764.0,RU.KX
+RU-KYA,2020-05-03,Krasnoyarskiy kray,781.0,RU.KX
 RU-LEN,2020-01-22,Leningradskaya oblast,0.0,RU.LN
 RU-LEN,2020-01-23,Leningradskaya oblast,0.0,RU.LN
 RU-LEN,2020-01-24,Leningradskaya oblast,0.0,RU.LN
@@ -3773,6 +3809,7 @@ RU-LEN,2020-04-29,Leningradskaya oblast,834.0,RU.LN
 RU-LEN,2020-04-30,Leningradskaya oblast,885.0,RU.LN
 RU-LEN,2020-05-01,Leningradskaya oblast,929.0,RU.LN
 RU-LEN,2020-05-02,Leningradskaya oblast,975.0,RU.LN
+RU-LEN,2020-05-03,Leningradskaya oblast,1037.0,RU.LN
 RU-LIP,2020-01-22,Lipetsk oblast,0.0,RU.LP
 RU-LIP,2020-01-23,Lipetsk oblast,0.0,RU.LP
 RU-LIP,2020-01-24,Lipetsk oblast,0.0,RU.LP
@@ -3875,6 +3912,7 @@ RU-LIP,2020-04-29,Lipetsk oblast,384.0,RU.LP
 RU-LIP,2020-04-30,Lipetsk oblast,415.0,RU.LP
 RU-LIP,2020-05-01,Lipetsk oblast,446.0,RU.LP
 RU-LIP,2020-05-02,Lipetsk oblast,481.0,RU.LP
+RU-LIP,2020-05-03,Lipetsk oblast,520.0,RU.LP
 RU-MAG,2020-01-22,Magadan oblast,0.0,RU.MG
 RU-MAG,2020-01-23,Magadan oblast,0.0,RU.MG
 RU-MAG,2020-01-24,Magadan oblast,0.0,RU.MG
@@ -3977,6 +4015,7 @@ RU-MAG,2020-04-29,Magadan oblast,99.0,RU.MG
 RU-MAG,2020-04-30,Magadan oblast,101.0,RU.MG
 RU-MAG,2020-05-01,Magadan oblast,110.0,RU.MG
 RU-MAG,2020-05-02,Magadan oblast,114.0,RU.MG
+RU-MAG,2020-05-03,Magadan oblast,116.0,RU.MG
 RU-ME,2020-01-22,Republic of Mariy El,0.0,RU.ME
 RU-ME,2020-01-23,Republic of Mariy El,0.0,RU.ME
 RU-ME,2020-01-24,Republic of Mariy El,0.0,RU.ME
@@ -4079,6 +4118,7 @@ RU-ME,2020-04-29,Republic of Mariy El,535.0,RU.ME
 RU-ME,2020-04-30,Republic of Mariy El,566.0,RU.ME
 RU-ME,2020-05-01,Republic of Mariy El,597.0,RU.ME
 RU-ME,2020-05-02,Republic of Mariy El,628.0,RU.ME
+RU-ME,2020-05-03,Republic of Mariy El,668.0,RU.ME
 RU-MO,2020-01-22,Republic of Mordovia,0.0,RU.MR
 RU-MO,2020-01-23,Republic of Mordovia,0.0,RU.MR
 RU-MO,2020-01-24,Republic of Mordovia,0.0,RU.MR
@@ -4181,6 +4221,7 @@ RU-MO,2020-04-29,Republic of Mordovia,659.0,RU.MR
 RU-MO,2020-04-30,Republic of Mordovia,698.0,RU.MR
 RU-MO,2020-05-01,Republic of Mordovia,728.0,RU.MR
 RU-MO,2020-05-02,Republic of Mordovia,765.0,RU.MR
+RU-MO,2020-05-03,Republic of Mordovia,808.0,RU.MR
 RU-MOS,2020-01-22,Moscow oblast,0.0,RU.MS
 RU-MOS,2020-01-23,Moscow oblast,0.0,RU.MS
 RU-MOS,2020-01-24,Moscow oblast,0.0,RU.MS
@@ -4283,6 +4324,7 @@ RU-MOS,2020-04-29,Moscow oblast,10917.0,RU.MS
 RU-MOS,2020-04-30,Moscow oblast,11710.0,RU.MS
 RU-MOS,2020-05-01,Moscow oblast,12507.0,RU.MS
 RU-MOS,2020-05-02,Moscow oblast,13314.0,RU.MS
+RU-MOS,2020-05-03,Moscow oblast,14136.0,RU.MS
 RU-MOW,2020-01-22,Moscow,0.0,RU.MOW
 RU-MOW,2020-01-23,Moscow,0.0,RU.MOW
 RU-MOW,2020-01-24,Moscow,0.0,RU.MOW
@@ -4385,6 +4427,7 @@ RU-MOW,2020-04-29,Moscow,50646.0,RU.MOW
 RU-MOW,2020-04-30,Moscow,53739.0,RU.MOW
 RU-MOW,2020-05-01,Moscow,57300.0,RU.MOW
 RU-MOW,2020-05-02,Moscow,62658.0,RU.MOW
+RU-MOW,2020-05-03,Moscow,68606.0,RU.MOW
 RU-MUR,2020-01-22,Murmansk oblast,0.0,RU.MM
 RU-MUR,2020-01-23,Murmansk oblast,0.0,RU.MM
 RU-MUR,2020-01-24,Murmansk oblast,0.0,RU.MM
@@ -4487,6 +4530,7 @@ RU-MUR,2020-04-29,Murmansk oblast,1126.0,RU.MM
 RU-MUR,2020-04-30,Murmansk oblast,1227.0,RU.MM
 RU-MUR,2020-05-01,Murmansk oblast,1313.0,RU.MM
 RU-MUR,2020-05-02,Murmansk oblast,1456.0,RU.MM
+RU-MUR,2020-05-03,Murmansk oblast,1694.0,RU.MM
 RU-NEN,2020-01-22,Nenetskiy autonomous oblast,0.0,RU.NN
 RU-NEN,2020-01-23,Nenetskiy autonomous oblast,0.0,RU.NN
 RU-NEN,2020-01-24,Nenetskiy autonomous oblast,0.0,RU.NN
@@ -4589,6 +4633,7 @@ RU-NEN,2020-04-29,Nenetskiy autonomous oblast,30.0,RU.NN
 RU-NEN,2020-04-30,Nenetskiy autonomous oblast,33.0,RU.NN
 RU-NEN,2020-05-01,Nenetskiy autonomous oblast,34.0,RU.NN
 RU-NEN,2020-05-02,Nenetskiy autonomous oblast,34.0,RU.NN
+RU-NEN,2020-05-03,Nenetskiy autonomous oblast,45.0,RU.NN
 RU-NGR,2020-01-22,Novgorod oblast,0.0,RU.NG
 RU-NGR,2020-01-23,Novgorod oblast,0.0,RU.NG
 RU-NGR,2020-01-24,Novgorod oblast,0.0,RU.NG
@@ -4691,6 +4736,7 @@ RU-NGR,2020-04-29,Novgorod oblast,266.0,RU.NG
 RU-NGR,2020-04-30,Novgorod oblast,279.0,RU.NG
 RU-NGR,2020-05-01,Novgorod oblast,297.0,RU.NG
 RU-NGR,2020-05-02,Novgorod oblast,322.0,RU.NG
+RU-NGR,2020-05-03,Novgorod oblast,348.0,RU.NG
 RU-NIZ,2020-01-22,Nizhegorodskaya oblast,0.0,RU.NZ
 RU-NIZ,2020-01-23,Nizhegorodskaya oblast,0.0,RU.NZ
 RU-NIZ,2020-01-24,Nizhegorodskaya oblast,0.0,RU.NZ
@@ -4793,6 +4839,7 @@ RU-NIZ,2020-04-29,Nizhegorodskaya oblast,1794.0,RU.NZ
 RU-NIZ,2020-04-30,Nizhegorodskaya oblast,1944.0,RU.NZ
 RU-NIZ,2020-05-01,Nizhegorodskaya oblast,2123.0,RU.NZ
 RU-NIZ,2020-05-02,Nizhegorodskaya oblast,2443.0,RU.NZ
+RU-NIZ,2020-05-03,Nizhegorodskaya oblast,2695.0,RU.NZ
 RU-NVS,2020-01-22,Novosibirsk oblast,0.0,RU.NS
 RU-NVS,2020-01-23,Novosibirsk oblast,0.0,RU.NS
 RU-NVS,2020-01-24,Novosibirsk oblast,0.0,RU.NS
@@ -4895,6 +4942,7 @@ RU-NVS,2020-04-29,Novosibirsk oblast,436.0,RU.NS
 RU-NVS,2020-04-30,Novosibirsk oblast,471.0,RU.NS
 RU-NVS,2020-05-01,Novosibirsk oblast,526.0,RU.NS
 RU-NVS,2020-05-02,Novosibirsk oblast,569.0,RU.NS
+RU-NVS,2020-05-03,Novosibirsk oblast,620.0,RU.NS
 RU-OMS,2020-01-22,Omsk oblast,0.0,RU.OM
 RU-OMS,2020-01-23,Omsk oblast,0.0,RU.OM
 RU-OMS,2020-01-24,Omsk oblast,0.0,RU.OM
@@ -4997,6 +5045,7 @@ RU-OMS,2020-04-29,Omsk oblast,87.0,RU.OM
 RU-OMS,2020-04-30,Omsk oblast,97.0,RU.OM
 RU-OMS,2020-05-01,Omsk oblast,107.0,RU.OM
 RU-OMS,2020-05-02,Omsk oblast,116.0,RU.OM
+RU-OMS,2020-05-03,Omsk oblast,127.0,RU.OM
 RU-ORE,2020-01-22,Orenburg oblast,0.0,RU.OB
 RU-ORE,2020-01-23,Orenburg oblast,0.0,RU.OB
 RU-ORE,2020-01-24,Orenburg oblast,0.0,RU.OB
@@ -5099,6 +5148,7 @@ RU-ORE,2020-04-29,Orenburg oblast,493.0,RU.OB
 RU-ORE,2020-04-30,Orenburg oblast,520.0,RU.OB
 RU-ORE,2020-05-01,Orenburg oblast,569.0,RU.OB
 RU-ORE,2020-05-02,Orenburg oblast,591.0,RU.OB
+RU-ORE,2020-05-03,Orenburg oblast,619.0,RU.OB
 RU-ORL,2020-01-22,Orel oblast,0.0,RU.OL
 RU-ORL,2020-01-23,Orel oblast,0.0,RU.OL
 RU-ORL,2020-01-24,Orel oblast,0.0,RU.OL
@@ -5201,6 +5251,7 @@ RU-ORL,2020-04-29,Orel oblast,498.0,RU.OL
 RU-ORL,2020-04-30,Orel oblast,525.0,RU.OL
 RU-ORL,2020-05-01,Orel oblast,562.0,RU.OL
 RU-ORL,2020-05-02,Orel oblast,594.0,RU.OL
+RU-ORL,2020-05-03,Orel oblast,662.0,RU.OL
 RU-PER,2020-01-22,Perm oblast,0.0,RU.PE
 RU-PER,2020-01-23,Perm oblast,0.0,RU.PE
 RU-PER,2020-01-24,Perm oblast,0.0,RU.PE
@@ -5303,6 +5354,7 @@ RU-PER,2020-04-29,Perm oblast,481.0,RU.PE
 RU-PER,2020-04-30,Perm oblast,500.0,RU.PE
 RU-PER,2020-05-01,Perm oblast,524.0,RU.PE
 RU-PER,2020-05-02,Perm oblast,556.0,RU.PE
+RU-PER,2020-05-03,Perm oblast,595.0,RU.PE
 RU-PNZ,2020-01-22,Pensa oblast,0.0,RU.PZ
 RU-PNZ,2020-01-23,Pensa oblast,0.0,RU.PZ
 RU-PNZ,2020-01-24,Pensa oblast,0.0,RU.PZ
@@ -5405,6 +5457,7 @@ RU-PNZ,2020-04-29,Pensa oblast,364.0,RU.PZ
 RU-PNZ,2020-04-30,Pensa oblast,404.0,RU.PZ
 RU-PNZ,2020-05-01,Pensa oblast,448.0,RU.PZ
 RU-PNZ,2020-05-02,Pensa oblast,481.0,RU.PZ
+RU-PNZ,2020-05-03,Pensa oblast,512.0,RU.PZ
 RU-PRI,2020-01-22,Primorskiy kray,0.0,RU.PR
 RU-PRI,2020-01-23,Primorskiy kray,0.0,RU.PR
 RU-PRI,2020-01-24,Primorskiy kray,0.0,RU.PR
@@ -5507,6 +5560,7 @@ RU-PRI,2020-04-29,Primorskiy kray,367.0,RU.PR
 RU-PRI,2020-04-30,Primorskiy kray,403.0,RU.PR
 RU-PRI,2020-05-01,Primorskiy kray,430.0,RU.PR
 RU-PRI,2020-05-02,Primorskiy kray,455.0,RU.PR
+RU-PRI,2020-05-03,Primorskiy kray,494.0,RU.PR
 RU-PSK,2020-01-22,Pskov oblast,0.0,RU.PS
 RU-PSK,2020-01-23,Pskov oblast,0.0,RU.PS
 RU-PSK,2020-01-24,Pskov oblast,0.0,RU.PS
@@ -5609,6 +5663,7 @@ RU-PSK,2020-04-29,Pskov oblast,142.0,RU.PS
 RU-PSK,2020-04-30,Pskov oblast,149.0,RU.PS
 RU-PSK,2020-05-01,Pskov oblast,153.0,RU.PS
 RU-PSK,2020-05-02,Pskov oblast,177.0,RU.PS
+RU-PSK,2020-05-03,Pskov oblast,195.0,RU.PS
 RU-ROS,2020-01-22,Rostov oblast,0.0,RU.RO
 RU-ROS,2020-01-23,Rostov oblast,0.0,RU.RO
 RU-ROS,2020-01-24,Rostov oblast,0.0,RU.RO
@@ -5711,6 +5766,7 @@ RU-ROS,2020-04-29,Rostov oblast,864.0,RU.RO
 RU-ROS,2020-04-30,Rostov oblast,943.0,RU.RO
 RU-ROS,2020-05-01,Rostov oblast,1026.0,RU.RO
 RU-ROS,2020-05-02,Rostov oblast,1106.0,RU.RO
+RU-ROS,2020-05-03,Rostov oblast,1178.0,RU.RO
 RU-RYA,2020-01-22,Ryazan oblast,0.0,RU.RZ
 RU-RYA,2020-01-23,Ryazan oblast,0.0,RU.RZ
 RU-RYA,2020-01-24,Ryazan oblast,0.0,RU.RZ
@@ -5813,6 +5869,7 @@ RU-RYA,2020-04-29,Ryazan oblast,840.0,RU.RZ
 RU-RYA,2020-04-30,Ryazan oblast,880.0,RU.RZ
 RU-RYA,2020-05-01,Ryazan oblast,923.0,RU.RZ
 RU-RYA,2020-05-02,Ryazan oblast,1021.0,RU.RZ
+RU-RYA,2020-05-03,Ryazan oblast,1076.0,RU.RZ
 RU-SA,2020-01-22,Saha republic,0.0,RU.SK
 RU-SA,2020-01-23,Saha republic,0.0,RU.SK
 RU-SA,2020-01-24,Saha republic,0.0,RU.SK
@@ -6017,6 +6074,7 @@ RU-SAK,2020-04-29,Sakhalin oblast,22.0,RU.SL
 RU-SAK,2020-04-30,Sakhalin oblast,23.0,RU.SL
 RU-SAK,2020-05-01,Sakhalin oblast,24.0,RU.SL
 RU-SAK,2020-05-02,Sakhalin oblast,24.0,RU.SL
+RU-SAK,2020-05-03,Sakhalin oblast,26.0,RU.SL
 RU-SAM,2020-01-22,Samara oblast,0.0,RU.SA
 RU-SAM,2020-01-23,Samara oblast,0.0,RU.SA
 RU-SAM,2020-01-24,Samara oblast,0.0,RU.SA
@@ -6119,6 +6177,7 @@ RU-SAM,2020-04-29,Samara oblast,327.0,RU.SA
 RU-SAM,2020-04-30,Samara oblast,367.0,RU.SA
 RU-SAM,2020-05-01,Samara oblast,392.0,RU.SA
 RU-SAM,2020-05-02,Samara oblast,433.0,RU.SA
+RU-SAM,2020-05-03,Samara oblast,518.0,RU.SA
 RU-SAR,2020-01-22,Saratov oblast,0.0,RU.SR
 RU-SAR,2020-01-23,Saratov oblast,0.0,RU.SR
 RU-SAR,2020-01-24,Saratov oblast,0.0,RU.SR
@@ -6221,6 +6280,7 @@ RU-SAR,2020-04-29,Saratov oblast,392.0,RU.SR
 RU-SAR,2020-04-30,Saratov oblast,438.0,RU.SR
 RU-SAR,2020-05-01,Saratov oblast,487.0,RU.SR
 RU-SAR,2020-05-02,Saratov oblast,535.0,RU.SR
+RU-SAR,2020-05-03,Saratov oblast,585.0,RU.SR
 RU-SE,2020-01-22,Republic of North Osetia - Alania,0.0,RU.NO
 RU-SE,2020-01-23,Republic of North Osetia - Alania,0.0,RU.NO
 RU-SE,2020-01-24,Republic of North Osetia - Alania,0.0,RU.NO
@@ -6323,6 +6383,7 @@ RU-SE,2020-04-29,Republic of North Osetia - Alania,670.0,RU.NO
 RU-SE,2020-04-30,Republic of North Osetia - Alania,763.0,RU.NO
 RU-SE,2020-05-01,Republic of North Osetia - Alania,836.0,RU.NO
 RU-SE,2020-05-02,Republic of North Osetia - Alania,921.0,RU.NO
+RU-SE,2020-05-03,Republic of North Osetia - Alania,990.0,RU.NO
 RU-SMO,2020-01-22,Smolensk oblast,0.0,RU.SM
 RU-SMO,2020-01-23,Smolensk oblast,0.0,RU.SM
 RU-SMO,2020-01-24,Smolensk oblast,0.0,RU.SM
@@ -6425,6 +6486,7 @@ RU-SMO,2020-04-29,Smolensk oblast,403.0,RU.SM
 RU-SMO,2020-04-30,Smolensk oblast,429.0,RU.SM
 RU-SMO,2020-05-01,Smolensk oblast,455.0,RU.SM
 RU-SMO,2020-05-02,Smolensk oblast,499.0,RU.SM
+RU-SMO,2020-05-03,Smolensk oblast,508.0,RU.SM
 RU-SPE,2020-01-22,Saint Petersburg,0.0,RU.SP
 RU-SPE,2020-01-23,Saint Petersburg,0.0,RU.SP
 RU-SPE,2020-01-24,Saint Petersburg,0.0,RU.SP
@@ -6527,6 +6589,7 @@ RU-SPE,2020-04-29,Saint Petersburg,3726.0,RU.SP
 RU-SPE,2020-04-30,Saint Petersburg,4062.0,RU.SP
 RU-SPE,2020-05-01,Saint Petersburg,4411.0,RU.SP
 RU-SPE,2020-05-02,Saint Petersburg,4734.0,RU.SP
+RU-SPE,2020-05-03,Saint Petersburg,5029.0,RU.SP
 RU-STA,2020-01-22,Stavropolskiy kray,0.0,RU.ST
 RU-STA,2020-01-23,Stavropolskiy kray,0.0,RU.ST
 RU-STA,2020-01-24,Stavropolskiy kray,0.0,RU.ST
@@ -6629,6 +6692,7 @@ RU-STA,2020-04-29,Stavropolskiy kray,519.0,RU.ST
 RU-STA,2020-04-30,Stavropolskiy kray,562.0,RU.ST
 RU-STA,2020-05-01,Stavropolskiy kray,651.0,RU.ST
 RU-STA,2020-05-02,Stavropolskiy kray,676.0,RU.ST
+RU-STA,2020-05-03,Stavropolskiy kray,731.0,RU.ST
 RU-SVE,2020-01-22,Sverdlov oblast,0.0,RU.SV
 RU-SVE,2020-01-23,Sverdlov oblast,0.0,RU.SV
 RU-SVE,2020-01-24,Sverdlov oblast,0.0,RU.SV
@@ -6731,6 +6795,7 @@ RU-SVE,2020-04-29,Sverdlov oblast,629.0,RU.SV
 RU-SVE,2020-04-30,Sverdlov oblast,703.0,RU.SV
 RU-SVE,2020-05-01,Sverdlov oblast,935.0,RU.SV
 RU-SVE,2020-05-02,Sverdlov oblast,1016.0,RU.SV
+RU-SVE,2020-05-03,Sverdlov oblast,1091.0,RU.SV
 RU-TA,2020-01-22,Republic of Tatarstan,0.0,RU.TT
 RU-TA,2020-01-23,Republic of Tatarstan,0.0,RU.TT
 RU-TA,2020-01-24,Republic of Tatarstan,0.0,RU.TT
@@ -6833,6 +6898,7 @@ RU-TA,2020-04-29,Republic of Tatarstan,752.0,RU.TT
 RU-TA,2020-04-30,Republic of Tatarstan,823.0,RU.TT
 RU-TA,2020-05-01,Republic of Tatarstan,894.0,RU.TT
 RU-TA,2020-05-02,Republic of Tatarstan,960.0,RU.TT
+RU-TA,2020-05-03,Republic of Tatarstan,1031.0,RU.TT
 RU-TAM,2020-01-22,Tambov oblast,0.0,RU.TB
 RU-TAM,2020-01-23,Tambov oblast,0.0,RU.TB
 RU-TAM,2020-01-24,Tambov oblast,0.0,RU.TB
@@ -6935,6 +7001,7 @@ RU-TAM,2020-04-29,Tambov oblast,537.0,RU.TB
 RU-TAM,2020-04-30,Tambov oblast,612.0,RU.TB
 RU-TAM,2020-05-01,Tambov oblast,675.0,RU.TB
 RU-TAM,2020-05-02,Tambov oblast,729.0,RU.TB
+RU-TAM,2020-05-03,Tambov oblast,789.0,RU.TB
 RU-TOM,2020-01-22,Tomsk oblast,0.0,RU.TO
 RU-TOM,2020-01-23,Tomsk oblast,0.0,RU.TO
 RU-TOM,2020-01-24,Tomsk oblast,0.0,RU.TO
@@ -7037,6 +7104,7 @@ RU-TOM,2020-04-29,Tomsk oblast,87.0,RU.TO
 RU-TOM,2020-04-30,Tomsk oblast,89.0,RU.TO
 RU-TOM,2020-05-01,Tomsk oblast,97.0,RU.TO
 RU-TOM,2020-05-02,Tomsk oblast,102.0,RU.TO
+RU-TOM,2020-05-03,Tomsk oblast,119.0,RU.TO
 RU-TUL,2020-01-22,Tula oblast,0.0,RU.TL
 RU-TUL,2020-01-23,Tula oblast,0.0,RU.TL
 RU-TUL,2020-01-24,Tula oblast,0.0,RU.TL
@@ -7139,6 +7207,7 @@ RU-TUL,2020-04-29,Tula oblast,873.0,RU.TL
 RU-TUL,2020-04-30,Tula oblast,965.0,RU.TL
 RU-TUL,2020-05-01,Tula oblast,1047.0,RU.TL
 RU-TUL,2020-05-02,Tula oblast,1135.0,RU.TL
+RU-TUL,2020-05-03,Tula oblast,1218.0,RU.TL
 RU-TVE,2020-01-22,Tver oblast,0.0,RU.TV
 RU-TVE,2020-01-23,Tver oblast,0.0,RU.TV
 RU-TVE,2020-01-24,Tver oblast,0.0,RU.TV
@@ -7241,6 +7310,7 @@ RU-TVE,2020-04-29,Tver oblast,518.0,RU.TV
 RU-TVE,2020-04-30,Tver oblast,535.0,RU.TV
 RU-TVE,2020-05-01,Tver oblast,564.0,RU.TV
 RU-TVE,2020-05-02,Tver oblast,610.0,RU.TV
+RU-TVE,2020-05-03,Tver oblast,661.0,RU.TV
 RU-TY,2020-01-22,Republic of Tyva,0.0,RU.TU
 RU-TY,2020-01-23,Republic of Tyva,0.0,RU.TU
 RU-TY,2020-01-24,Republic of Tyva,0.0,RU.TU
@@ -7343,6 +7413,7 @@ RU-TY,2020-04-29,Republic of Tyva,31.0,RU.TU
 RU-TY,2020-04-30,Republic of Tyva,33.0,RU.TU
 RU-TY,2020-05-01,Republic of Tyva,39.0,RU.TU
 RU-TY,2020-05-02,Republic of Tyva,40.0,RU.TU
+RU-TY,2020-05-03,Republic of Tyva,43.0,RU.TU
 RU-TYU,2020-01-22,Tumen oblast,0.0,RU.TY
 RU-TYU,2020-01-23,Tumen oblast,0.0,RU.TY
 RU-TYU,2020-01-24,Tumen oblast,0.0,RU.TY
@@ -7445,6 +7516,7 @@ RU-TYU,2020-04-29,Tumen oblast,420.0,RU.TY
 RU-TYU,2020-04-30,Tumen oblast,435.0,RU.TY
 RU-TYU,2020-05-01,Tumen oblast,442.0,RU.TY
 RU-TYU,2020-05-02,Tumen oblast,458.0,RU.TY
+RU-TYU,2020-05-03,Tumen oblast,495.0,RU.TY
 RU-UD,2020-01-22,Republic of Udmurtia,0.0,RU.UD
 RU-UD,2020-01-23,Republic of Udmurtia,0.0,RU.UD
 RU-UD,2020-01-24,Republic of Udmurtia,0.0,RU.UD
@@ -7547,6 +7619,7 @@ RU-UD,2020-04-29,Republic of Udmurtia,217.0,RU.UD
 RU-UD,2020-04-30,Republic of Udmurtia,228.0,RU.UD
 RU-UD,2020-05-01,Republic of Udmurtia,237.0,RU.UD
 RU-UD,2020-05-02,Republic of Udmurtia,244.0,RU.UD
+RU-UD,2020-05-03,Republic of Udmurtia,271.0,RU.UD
 RU-ULY,2020-01-22,Ulianovsk oblast,0.0,RU.UL
 RU-ULY,2020-01-23,Ulianovsk oblast,0.0,RU.UL
 RU-ULY,2020-01-24,Ulianovsk oblast,0.0,RU.UL
@@ -7649,6 +7722,7 @@ RU-ULY,2020-04-29,Ulianovsk oblast,379.0,RU.UL
 RU-ULY,2020-04-30,Ulianovsk oblast,406.0,RU.UL
 RU-ULY,2020-05-01,Ulianovsk oblast,429.0,RU.UL
 RU-ULY,2020-05-02,Ulianovsk oblast,461.0,RU.UL
+RU-ULY,2020-05-03,Ulianovsk oblast,499.0,RU.UL
 RU-VGG,2020-01-22,Volgograd oblast,0.0,RU.VG
 RU-VGG,2020-01-23,Volgograd oblast,0.0,RU.VG
 RU-VGG,2020-01-24,Volgograd oblast,0.0,RU.VG
@@ -7751,6 +7825,7 @@ RU-VGG,2020-04-29,Volgograd oblast,313.0,RU.VG
 RU-VGG,2020-04-30,Volgograd oblast,344.0,RU.VG
 RU-VGG,2020-05-01,Volgograd oblast,386.0,RU.VG
 RU-VGG,2020-05-02,Volgograd oblast,432.0,RU.VG
+RU-VGG,2020-05-03,Volgograd oblast,474.0,RU.VG
 RU-VLA,2020-01-22,Vladimir oblast,0.0,RU.VL
 RU-VLA,2020-01-23,Vladimir oblast,0.0,RU.VL
 RU-VLA,2020-01-24,Vladimir oblast,0.0,RU.VL
@@ -7853,6 +7928,7 @@ RU-VLA,2020-04-29,Vladimir oblast,634.0,RU.VL
 RU-VLA,2020-04-30,Vladimir oblast,669.0,RU.VL
 RU-VLA,2020-05-01,Vladimir oblast,715.0,RU.VL
 RU-VLA,2020-05-02,Vladimir oblast,775.0,RU.VL
+RU-VLA,2020-05-03,Vladimir oblast,830.0,RU.VL
 RU-VLG,2020-01-22,Vologda oblast,0.0,RU.VO
 RU-VLG,2020-01-23,Vologda oblast,0.0,RU.VO
 RU-VLG,2020-01-24,Vologda oblast,0.0,RU.VO
@@ -7955,6 +8031,7 @@ RU-VLG,2020-04-29,Vologda oblast,166.0,RU.VO
 RU-VLG,2020-04-30,Vologda oblast,173.0,RU.VO
 RU-VLG,2020-05-01,Vologda oblast,184.0,RU.VO
 RU-VLG,2020-05-02,Vologda oblast,199.0,RU.VO
+RU-VLG,2020-05-03,Vologda oblast,219.0,RU.VO
 RU-VOR,2020-01-22,Voronezh oblast,0.0,RU.VR
 RU-VOR,2020-01-23,Voronezh oblast,0.0,RU.VR
 RU-VOR,2020-01-24,Voronezh oblast,0.0,RU.VR
@@ -8057,6 +8134,7 @@ RU-VOR,2020-04-29,Voronezh oblast,459.0,RU.VR
 RU-VOR,2020-04-30,Voronezh oblast,493.0,RU.VR
 RU-VOR,2020-05-01,Voronezh oblast,529.0,RU.VR
 RU-VOR,2020-05-02,Voronezh oblast,565.0,RU.VR
+RU-VOR,2020-05-03,Voronezh oblast,602.0,RU.VR
 RU-YAN,2020-01-22,Yamalo-Nenetskiy AO,0.0,RU.YN
 RU-YAN,2020-01-23,Yamalo-Nenetskiy AO,0.0,RU.YN
 RU-YAN,2020-01-24,Yamalo-Nenetskiy AO,0.0,RU.YN
@@ -8159,6 +8237,7 @@ RU-YAN,2020-04-29,Yamalo-Nenetskiy AO,409.0,RU.YN
 RU-YAN,2020-04-30,Yamalo-Nenetskiy AO,463.0,RU.YN
 RU-YAN,2020-05-01,Yamalo-Nenetskiy AO,514.0,RU.YN
 RU-YAN,2020-05-02,Yamalo-Nenetskiy AO,557.0,RU.YN
+RU-YAN,2020-05-03,Yamalo-Nenetskiy AO,608.0,RU.YN
 RU-YAR,2020-01-22,Yaroslavl oblast,0.0,RU.YS
 RU-YAR,2020-01-23,Yaroslavl oblast,0.0,RU.YS
 RU-YAR,2020-01-24,Yaroslavl oblast,0.0,RU.YS
@@ -8261,6 +8340,7 @@ RU-YAR,2020-04-29,Yaroslavl oblast,483.0,RU.YS
 RU-YAR,2020-04-30,Yaroslavl oblast,506.0,RU.YS
 RU-YAR,2020-05-01,Yaroslavl oblast,570.0,RU.YS
 RU-YAR,2020-05-02,Yaroslavl oblast,634.0,RU.YS
+RU-YAR,2020-05-03,Yaroslavl oblast,710.0,RU.YS
 RU-YEV,2020-01-22,Jewish Autonomous oblast,0.0,RU.YV
 RU-YEV,2020-01-23,Jewish Autonomous oblast,0.0,RU.YV
 RU-YEV,2020-01-24,Jewish Autonomous oblast,0.0,RU.YV
@@ -8363,6 +8443,7 @@ RU-YEV,2020-04-29,Jewish Autonomous oblast,118.0,RU.YV
 RU-YEV,2020-04-30,Jewish Autonomous oblast,124.0,RU.YV
 RU-YEV,2020-05-01,Jewish Autonomous oblast,131.0,RU.YV
 RU-YEV,2020-05-02,Jewish Autonomous oblast,134.0,RU.YV
+RU-YEV,2020-05-03,Jewish Autonomous oblast,143.0,RU.YV
 RU-ZAB,2020-01-22,Zabaykalskiy kray,0.0,RU.ZB
 RU-ZAB,2020-01-23,Zabaykalskiy kray,0.0,RU.ZB
 RU-ZAB,2020-01-24,Zabaykalskiy kray,0.0,RU.ZB
@@ -8465,6 +8546,7 @@ RU-ZAB,2020-04-29,Zabaykalskiy kray,109.0,RU.ZB
 RU-ZAB,2020-04-30,Zabaykalskiy kray,114.0,RU.ZB
 RU-ZAB,2020-05-01,Zabaykalskiy kray,134.0,RU.ZB
 RU-ZAB,2020-05-02,Zabaykalskiy kray,155.0,RU.ZB
+RU-ZAB,2020-05-03,Zabaykalskiy kray,167.0,RU.ZB
 UA-40,2020-01-22,Sevastopol,0.0,
 UA-40,2020-01-23,Sevastopol,0.0,
 UA-40,2020-01-24,Sevastopol,0.0,
@@ -8567,6 +8649,7 @@ UA-40,2020-04-29,Sevastopol,77.0,
 UA-40,2020-04-30,Sevastopol,78.0,
 UA-40,2020-05-01,Sevastopol,85.0,
 UA-40,2020-05-02,Sevastopol,86.0,
+UA-40,2020-05-03,Sevastopol,89.0,
 UA-43,2020-01-22,Republic of Crimea,0.0,
 UA-43,2020-01-23,Republic of Crimea,0.0,
 UA-43,2020-01-24,Republic of Crimea,0.0,
@@ -8669,3 +8752,4 @@ UA-43,2020-04-29,Republic of Crimea,79.0,
 UA-43,2020-04-30,Republic of Crimea,89.0,
 UA-43,2020-05-01,Republic of Crimea,92.0,
 UA-43,2020-05-02,Republic of Crimea,100.0,
+UA-43,2020-05-03,Republic of Crimea,104.0,
