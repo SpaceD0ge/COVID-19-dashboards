@@ -25,7 +25,7 @@ predictions = [
 ]
 team_names = ["Gork", "Mork"]
 start_date = "2020-04-27"
-end_date = "2020-05-01"
+end_date = "2020-05-03"
 ##################################
 
 # dash with flask
