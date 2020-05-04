@@ -5,6 +5,7 @@ from visualization.basic import *
 # validation and file loading
 from data import RussianRegionsParser
 from models.validation import get_validation_results
+from glob import glob
 import pandas as pd
 import json
 
@@ -19,11 +20,9 @@ from dash.dependencies import Input, Output
 
 # MAIN PARAMETERS ################
 # Основные параметры
-predictions = [
-    pd.read_csv("./submissions/seir3.csv"),
-    pd.read_csv("./submissions/seir2.csv"),
-]
-team_names = ["Gork", "Mork"]
+prediction_files = glob('./submissions/*.csv')
+team_names = [x.split('/')[-1][:-4] for x in prediction_files]
+
 start_date = "2020-04-27"
 end_date = "2020-05-03"
 ##################################
@@ -56,17 +55,17 @@ data = pd.read_csv('./auxiliary_files/russian_timeline_fixed.csv')
 with open("./auxiliary_files/gadm36_RUS_1.json") as f:
     geodata = json.load(f)
 summary = pd.read_csv("./auxiliary_files/russia_regions.csv").set_index("iso_code")
-predictions = [x.set_index('region').loc[summary.index].reset_index() for x in predictions]
+predictions = [pd.read_csv(x, index_col='region').loc[summary.index].reset_index() for x in prediction_files]
 
 # evaluating the male scores
 # выводим все скоры в одну таблицу, в другой оставляем только сам лидерборд
 scores = get_validation_results(
     predictions, data, start_date, end_date, summary, custom_ids=team_names
 )
-lb = scores.reset_index().groupby("region_code").sum().mean().reset_index()
+lb = scores.reset_index().groupby("date").mean().sum().reset_index()
 lb.columns = ["Participant", "Score"]
-lb = lb.sort_values(by="Score").reset_index()
-lb["index"] = lb["index"] + 1
+lb = lb.sort_values(by="Score")
+lb["Placement"] = [x+1 for x in range(lb.shape[0])]
 
 
 # rendering the dash app
@@ -214,10 +213,12 @@ def update_region(click_data):
     except TypeError:
         return plot_predictions(predictions, team_names, data)
 
+server = app.server
+
 
 # Running the server
 if __name__ == "__main__":
     # debug=True for debugging and use_reloader=False for
     # serving right out of a jupyter notebook
     # app.run_server(debug=True, use_reloader=False)
-    app.run_server(host='0.0.0.0')
+    app.run_server(debug=False, host='0.0.0.0')
